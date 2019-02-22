@@ -1,3 +1,4 @@
+商品名稱,價錢
 ramen,200
-pasta,100
-noodle,100
+pasta,200
+rice,100
