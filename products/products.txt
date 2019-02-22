@@ -1,0 +1,3 @@
+ramen,200
+pasta,100
+noodle,100

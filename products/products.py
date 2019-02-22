@@ -9,3 +9,7 @@ print(products)
 
 for product in products:
 	print(product[0], '的價格為 ', product[1])
+
+with open('products.txt','w') as f:
+	for p in products:
+		f.write(p[0] + ',' + p[1] + '\n')
